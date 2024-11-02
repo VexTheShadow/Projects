@@ -1,3 +1,6 @@
+// https://github.com/squarechip/timeline
+
+
 //Default settings
 const starting_item = 0; // 0 -> Top to bottom | 1 -> Bottom to top.
 const column_space = "25%"; // Space between columns.
